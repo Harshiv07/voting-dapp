@@ -8,4 +8,4 @@ A basic voting dapp that focuses on understanding Solidity and writing tests in 
 4. Create a ganache project and add the truffle config file of this project to it
 5. truffle test
 6. truffle migrate
-7. npm start
+7. npm run dev
